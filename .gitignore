@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Build artifacts
+*.bin
+snake_c
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.log
